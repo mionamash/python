@@ -1,0 +1,6 @@
+print("Welcome to python programming")
+print("This is me,look out coz here i come")
+print(5+12)
+print("5+6")
+print("How are you my friend,how do you do my friend")
+#print("Naomi")
